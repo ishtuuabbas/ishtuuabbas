@@ -4,11 +4,11 @@
 
 ## About Me
 
-🌟 Passionate about creating impactful software solutions with expertise in web development. I love coding and solving problems using the latest technologies.
+🌟 Passionate about creating impactful software solutions and visually appealing designs. With expertise in web development and graphic design, I love coding, designing, and solving problems using the latest technologies.
 
-👨‍💻 With experience in web development using React.js, I enjoy crafting user-friendly, performant, and scalable applications.
+👨‍💻 I have extensive experience in web development using React.js, where I build user-friendly, performant, and scalable applications. Additionally, my background in graphic design allows me to craft visually compelling UI/UX designs and branding solutions.
 
-🌐 Always exploring new technologies and frameworks, and I'm enthusiastic about learning and sharing knowledge with the community.
+🌐 Constantly exploring new technologies, frameworks, and design trends, I am enthusiastic about learning and sharing knowledge with the community.
 
 ## Expertise
 
